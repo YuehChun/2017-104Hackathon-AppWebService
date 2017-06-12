@@ -8,6 +8,8 @@ https://www.104.com.tw/2017hackathon/
 ## 範例 - 我要活下去之何處是我家
 使用 __政府統計資訊網的家庭收支-平均每戶全年經常性支出__，與 __104職務資料集中有提供薪水資訊的職務資料__，加上一個簡單的職務名稱推薦職缺類別的分類器，接上line-bot的api後，就可以完成一個在哪裡工作CP值最高的line機器人。  
 
+[詳細說明](https://github.com/104corp/2017-104Hackathon-AppWebService/tree/master/linebot-example)  
+
 <img src="https://github.com/104corp/2017-104Hackathon-AppWebService/blob/master/linebot-example/line_screenshot.png"  width="50%">
 
 ## 資料集說明
