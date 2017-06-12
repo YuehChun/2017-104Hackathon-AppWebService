@@ -5,6 +5,11 @@
 https://www.104.com.tw/2017hackathon/
 ## 主題說明
 最佳人性化的設計，來自於傾聽user insight，利用主辦單位特定時間區間內去識別化的行為記錄（user Log），達到觀測真實行為目的。參賽者歡迎使用主辦單位所提供之資料集，設計製作徵才或求職相關的 App、Web Service。
+## 範例 - 我要活下去之何處是我家
+使用 __政府統計資訊網的家庭收支-平均每戶全年經常性支出__，與 __104職務資料集中有提供薪水資訊的職務資料__，加上一個簡單的職務名稱推薦職缺類別的分類器，接上line-bot的api後，就可以完成一個在哪裡工作CP值最高的line機器人。  
+
+<img src="https://github.com/104corp/2017-104Hackathon-AppWebService/blob/master/linebot-example/line_screenshot.png"  width="50%">
+
 ## 資料集說明
 * 104 Job Search API
     + 透過104的Job Search API取得職務和公司資訊
